@@ -333,5 +333,4 @@ public class CallbackBridge {
     static {
         System.loadLibrary("pojavexec");
     }
-                                                          }
-      
+}
